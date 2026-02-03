@@ -117,6 +117,3 @@
 ## Note
 
 This was my first time making a program using VBA. This program does it's job just fine, but can be slow with big ranges, therefore more optimizition needs to be made.
-     - **Blue** (in the template list): missing from the data.
-   - Displays a **ColorExplanation** box on the sheet for quick reference.
-4. If needed, use **Undo Backup** to return the data and template to their original state.
