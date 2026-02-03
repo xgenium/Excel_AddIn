@@ -1,0 +1,3 @@
+[submodule "Excel_AddIn"]
+	path = Excel_AddIn
+	url = https://github.com/realkolobok/Excel_AddIn
